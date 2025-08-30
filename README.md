@@ -1,16 +1,19 @@
-# storyboss
+# 🧮 BMI Calculator  
 
-A new Flutter project.
+A simple and clean **BMI (Body Mass Index) Calculator** built to quickly calculate and categorize your BMI.  
+Made as part of my coding practice — turning small ideas into working projects.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
+- ✅ Input your **Height** & **Weight**  
+- ✅ Instant **BMI Calculation**  
+- ✅ Get your **Health Category** (Underweight, Normal, Overweight, Obese)  
+- ✅ Beginner-friendly project  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack  
+- **Language/Framework:** (Python / Flutter / Java — update with yours)  
+- **Editor/IDE:** (VS Code / Android Studio / Eclipse — update with yours)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
